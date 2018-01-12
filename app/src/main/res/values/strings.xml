@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">小词典</string>
+<string name="title_activity_forget_pwd">ForgetPwdActivity</string>
+    <string name="author">by James</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 清除按钮的图片 -->
+    <attr name="drawbleRight" format="reference"/>
+    <!-- 自定义样式 -->
+    <declare-styleable name="ClearableEdittext">
+        <attr name="drawbleRight"/>
+    </declare-styleable>
+</resources>
