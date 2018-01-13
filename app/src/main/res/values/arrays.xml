@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_searchMode">
+        <item>英译汉</item>
+        <item>汉译英</item>
+    </string-array>
+</resources>
