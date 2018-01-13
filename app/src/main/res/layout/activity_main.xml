@@ -52,6 +52,15 @@
                     android:maxLines="1"
                     app:drawbleRight="@drawable/ic_action_clear"/>
 
+                <Spinner
+                    android:id="@+id/id_spin_searchMode"
+                    android:layout_marginTop="@dimen/fab_margin"
+                    android:layout_marginBottom="@dimen/fab_margin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/arr_searchMode"
+                    android:layout_weight="1"/>
+
                 <Button
                     android:id="@+id/id_btnSearch"
                     android:layout_width="match_parent"
@@ -68,5 +77,4 @@
             android:textSize="12sp"
             />
     </LinearLayout>
-
 </LinearLayout>
